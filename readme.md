@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## 这是我们小组的作业
 
-You can use the [editor on GitHub](https://github.com/shenzhouwq/wqTest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+小组成员：aaaa
+         bbbb
+         cccc
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 作业内容
 
-### Markdown
+这是干嘛的用到了什么技术
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
