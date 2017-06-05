@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://ss0.baidu.com/73x1bjeh1BF3odCf/it/u=916868461,3707382023&fm=85&s=31B7CA7E4AA2CF764C07A7AD0200E00B)
 
 到这里markdown就结束了
 ```
