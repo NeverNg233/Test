@@ -16,29 +16,25 @@
 
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 标题 1
+## 标题 2
+### 标题 3
 
-- Bulleted
+- Bulleted个
 - List
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**加粗标签** 
+_斜体标签_ 
 
-[Link](url) and ![Image](https://ss0.baidu.com/73x1bjeh1BF3odCf/it/u=916868461,3707382023&fm=85&s=31B7CA7E4AA2CF764C07A7AD0200E00B)
+`变色标签` 
+
+文本无标签
+
+[Link](url) and ![Image](https://octodex.github.com/images/privateinvestocat.jpg)
 
 到这里markdown就结束了
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shenzhouwq/wqTest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
