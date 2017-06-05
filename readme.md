@@ -13,18 +13,19 @@
 这里是棒子要的markdown
 
 
-
-Syntax highlighted code block
-
 # 标题 1
 ## 标题 2
 ### 标题 3
 
-- Bulleted个
-- List
+- 分项标签
+- 分项标签
+- 分项标签
+- 分项标签
 
-1. Numbered
-2. List
+1. 数字序列标签
+2. 数字序列标签
+
+
 
 **加粗标签** 
 _斜体标签_ 
@@ -33,7 +34,9 @@ _斜体标签_
 
 文本无标签
 
-[Link](url) and ![Image](https://octodex.github.com/images/privateinvestocat.jpg)
+超连接标签[Link of 百度](www.baidu.com)
+![image of test](https://octodex.github.com/images/privateinvestocat.jpg)
+
 
 到这里markdown就结束了
 ```
