@@ -8,9 +8,12 @@
 
 这是干嘛的用到了什么技术
 
-
-
 ```markdown
+上面那是markdown起始标识
+这里是棒子要的markdown
+
+
+
 Syntax highlighted code block
 
 # Header 1
@@ -26,6 +29,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+到这里markdown就结束了
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
