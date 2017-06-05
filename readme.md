@@ -33,7 +33,7 @@ _斜体标签_
 `变色标签` 
 
 文本无标签
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 超连接标签[Link of 百度](www.baidu.com)
 ![image of test](https://octodex.github.com/images/privateinvestocat.jpg)
 
